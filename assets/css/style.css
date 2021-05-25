@@ -23,6 +23,7 @@ body::before {
 
 @media (min-width: 1024px) {
   body::before {
+    background: #040404 url("../img/bg3.jpg") top right no-repeat;
     background-attachment: fixed;
   }
 }
